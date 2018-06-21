@@ -1,2 +1,3 @@
 # WebGL
-This repository demonstrates a little my knowledge of WebGL/OpenGL/Html5 Canvas/Javascript
+
+Here consists of two things: Presentation slide made by me and other two teammates and the html code I made for the presentation. Things are created for Graphic class in 2011 with notepad under windows 7.
